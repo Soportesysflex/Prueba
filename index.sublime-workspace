@@ -1,0 +1,463 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"v",
+				"vModules"
+			],
+			[
+				"S",
+				"Sistemas"
+			],
+			[
+				"result",
+				"resultMod"
+			],
+			[
+				"se",
+				"session_destroy"
+			],
+			[
+				"in",
+				"incl1\tinclude_once …"
+			],
+			[
+				"n",
+				"Newconfirm"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"N",
+				"Newconfirm"
+			],
+			[
+				"Id",
+				"IdUsuario"
+			],
+			[
+				"us",
+				"userforgot"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"r",
+				"required\tAttr"
+			],
+			[
+				"ec",
+				"enctype\tAttr"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"dirnc",
+				"dirnc"
+			],
+			[
+				"ac",
+				"actrnc"
+			],
+			[
+				"a",
+				"Apellido2"
+			],
+			[
+				"A",
+				"Apellido2"
+			],
+			[
+				"min",
+				"minlength\tAttr"
+			],
+			[
+				"bas",
+				"base64_decode"
+			],
+			[
+				"p",
+				"POSTuser"
+			],
+			[
+				"base",
+				"base64_encode"
+			],
+			[
+				"ba",
+				"base64_decode"
+			],
+			[
+				"b",
+				"base64_encode"
+			],
+			[
+				"base6",
+				"base64_encode"
+			],
+			[
+				"And",
+				"AND"
+			],
+			[
+				"e",
+				"elseif\telseif …"
+			],
+			[
+				"de",
+				"Descripcion"
+			],
+			[
+				"ap",
+				"Apellido2"
+			],
+			[
+				"apel",
+				"Apellido1"
+			],
+			[
+				"FECH",
+				"fechanacimiento"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"des",
+				"desM"
+			],
+			[
+				"sec",
+				"Sectorid"
+			],
+			[
+				"ca",
+				"categoriaid"
+			],
+			[
+				"apell",
+				"apellidoconyuge"
+			],
+			[
+				"coun",
+				"count_chars"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"fe",
+				"fechanacimiento"
+			],
+			[
+				"Fe",
+				"FechaNacimiento"
+			],
+			[
+				"mi",
+				"minlength\tAttr"
+			],
+			[
+				"Descri",
+				"DescripcionProvincia"
+			],
+			[
+				"na",
+				"nacional"
+			],
+			[
+				"col",
+				"col-sm-6"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"border-boot",
+				"border-bottom-right-radius\tproperty"
+			],
+			[
+				"boder",
+				"border-right\tproperty"
+			],
+			[
+				"border-b",
+				"border-bottom-left-radius\tproperty"
+			],
+			[
+				"border-top",
+				"border-top-left-radius\tproperty"
+			],
+			[
+				"bode",
+				"border\tproperty"
+			],
+			[
+				"border-to",
+				"border-top-style\tproperty"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"fa",
+				"fadeInDown"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/view/tablarnc.php",
+		"/D/xampp/htdocs/PAFRANCIS/SFSecuritySRL/Sysflex/pages/examples/login.html",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/view/Nuevo.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/view/loginsysflex.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/view/ForgotPass.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/procesos/forgotvalid.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/procesos/changedpass.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/procesos/forgot.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/procesos/conexion_sql.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/procesos/validandos.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/view/tabla.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/includes/menu.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/includes/scriptsfooter.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/view/dash.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/view/forgotvalid.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/view/index.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/view/lockscreen.php",
+		"/D/xampp/htdocs/ventas_ci/index.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/view/login.php",
+		"/C/Users/Josias/Desktop/sysflex/Nuevo.html",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/view/index.html",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/procesos/validando.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/procesos/POSTuser.php",
+		"/D/xampp/htdocs/PAFRANCIS/app-sysflex/index.php",
+		"/D/xampp/htdocs/PAFRANCIS/Sysflex/index.html",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/index.php",
+		"/D/xampp/htdocs/app-sysflex/system/libraries/Session/Session.php",
+		"/D/xampp/htdocs/app-sysflex/app/dist/css/adminlte.css",
+		"/D/xampp/htdocs/app-sysflex/system/database/DB_driver.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/includes/validarusurio.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/procesos/consultoracceso.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/styles/estilos.css",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/styles/stilo.css",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/styles/scripts.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/view/consultor.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/procesos/consulrnc.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/includes/INITUSER.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/procesos/consultable.php",
+		"/D/xampp/htdocs/PAFRANCIS/dist/index.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/procesos/validar.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/validar.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/procesos/INITUSER.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/includes/controlusuario.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/consultoracceso.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/includes/conexion.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/procesos/valido.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/procesos/login.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/procesos/controlusuario.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/procesos/consultando.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/consultando.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/tabla.php",
+		"/D/xampp/htdocs/PAFRANCIS/footer/style.css",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/estilos/logins.css",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/estilos/ced-rnc.css",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/ced-rnc.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/login.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/rnc.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/conexion_sql.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/tabla2.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/index.html",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/style.css",
+		"/C/Users/Josias/AppData/Local/Temp/Rar$DRa1764.10228/login/login.html",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/login2.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/estilos/login.css",
+		"/C/Users/Josias/AppData/Local/Temp/Rar$DRa1764.15525/login/login.html",
+		"/C/Users/Josias/AppData/Local/Temp/Rar$DRa1764.31051/login/login.html",
+		"/C/Users/Josias/AppData/Local/Temp/Rar$DRa16360.14928/login/login.html",
+		"/C/Users/Josias/AppData/Local/Temp/Rar$DRa19900.30128/consulta/tabla.php",
+		"/D/xampp/htdocs/PAFRANCIS/Consultor/scripts.php",
+		"/D/xampp/htdocs/PAFRANCIS/tabla.html",
+		"/D/yas/Sysflex/plugins/datatables-autofill/js/dataTables.autoFill.js",
+		"/D/yas/Sysflex/pages/tables/data.html",
+		"/D/yas/Sysflex/pages/tables/jsgrid.html",
+		"/D/yas/Sysflex/plugins/jquery/jquery.js",
+		"/D/yas/Sysflex/plugins/datatables-buttons/js/dataTables.buttons.min.js",
+		"/C/Users/Josias/Desktop/sysflex/login.html",
+		"/C/Users/Josias/Desktop/sysflex/css.css",
+		"/C/Users/Josias/Desktop/loginsysflex-asp/sysflex-login.css",
+		"/C/Users/Josias/Desktop/loginsysflex-asp/pruebaloginsysflex.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 181.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
